@@ -1,0 +1,7 @@
+This application is for academic use only. This is not for private or commercial use.
+
+The data found may not be accurate; please refer to the FAA ADIP portal for accurate information.
+
+This application shall not be published or distributed without written approval by the owner.
+
+Database Last Updated: 3/2/2024

@@ -1,0 +1,16 @@
+Landing Lite - by James Crawford
+
+as part of the Final Project of HUM 1600 taught by John Gordon
+
+Special Thanks for information obtained from the following sources:
+
+1. https://ourairports.com/data/
+    For the open-source airport and runway Datasets
+2. OpenAI's ChatGPT
+    For syntax help and information on using the tkinter toolkit
+3. And the following YouTube videos for tutorials on creating GUIs and SQLite Databases
+    https://youtu.be/mop6g-c5HEY?si=XfQ3PILMq0lBBjY9
+    https://youtu.be/5qOnzF7RsNA?si=TcROj9aSsVyKJqOS
+    https://youtu.be/Ohj-CqALrwk?si=YY1tSVJwuvcaODw5
+4. https://solutions4ga.com/runway-lights-at-airport-colors-and-meaning-explained/
+	For use of the Main Page Image
